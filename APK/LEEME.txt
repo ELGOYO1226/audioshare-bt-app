@@ -1,7 +1,7 @@
 AudioShare para Android — instalador
 
-Archivo:  AudioShare.apk   (v0.1.2, ~46 MB)
-SHA-256:  a252d64a99aa65d905daa81e043a15fa4b6e527d18c9d5915ca34acda8e74d86
+Archivo:  AudioShare.apk   (v0.1.3, ~46 MB)
+SHA-256:  ccd85184e871a2fe86cee116ad88ab7585304e6f9c728e1e1addde119c16d806
 
 Como instalarlo en otro celular:
   1. Copia AudioShare.apk al celular (cable USB, WhatsApp, Drive, etc.) o descargalo de GitHub.
