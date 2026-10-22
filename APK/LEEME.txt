@@ -1,7 +1,7 @@
-AudioShare para Android — instalador
+﻿AudioShare para Android — instalador
 
 Archivo:  AudioShare.apk   (v0.2.0, ~65 MB)
-SHA-256:  8b1952a0e276b277de9ceadf1757c07b97447cac5922684ddddd969b7475aeeb
+SHA-256:  4bdf6e663ccf4c9745cf8ffd13360f6642dd4bf66c8852a3fe35beea030d3603
 
 Como instalarlo en otro celular:
   1. Copia AudioShare.apk al celular (cable USB, WhatsApp, Drive, etc.) o descargalo de GitHub.
@@ -15,6 +15,7 @@ Nota: esta firmado con la clave de debug de Flutter, por eso Android muestra el 
 
 Como se usa:
   - Compartir: elige "Red propia" (sin internet) o "Wi-Fi de casa". Aparece un QR.
+  - Escuchar: "En el mismo Wi-Fi" busca solo a quien comparte por Wi-Fi de casa.
   - Escuchar: salen solos los equipos que comparten cerca -> "Unirse" -> el que comparte
     acepta el numero de 6 digitos. O escanea su QR.
   - El audio va cifrado: nadie escucha sin el QR o sin que lo acepten.
